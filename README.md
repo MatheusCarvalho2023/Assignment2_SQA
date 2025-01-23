@@ -1,2 +1,4 @@
-# Assignment1_SQA
+# Assignment2_SQA
 First Software Quality Assurance Assignment
+
+Unit Testing
